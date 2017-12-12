@@ -3,11 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# MacOS
+.DS_Store
+
 # C extensions
 *.so
 
 # Distribution / packaging
 .Python
+venv/
 env/
 build/
 develop-eggs/
@@ -30,6 +34,9 @@ wheels/
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+
+# requirements.txt file
+requirements.txt
 
 # Installer logs
 pip-log.txt
@@ -99,3 +106,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# results
+results/
+
+# old file versions
+old-versions/
+
