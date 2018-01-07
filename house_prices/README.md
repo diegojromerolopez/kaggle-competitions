@@ -1,4 +1,4 @@
-# Titanic kaggle competition
+# House prices kaggle competition
 
 - [Information](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
