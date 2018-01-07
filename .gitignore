@@ -5,6 +5,7 @@ __pycache__/
 
 # Backup files
 *~
+.~
 
 # MacOS
 .DS_Store
