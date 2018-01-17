@@ -10,6 +10,9 @@ __pycache__/
 # MacOS
 .DS_Store
 
+# Private files
+private/
+
 # IDE
 .idea/
 
